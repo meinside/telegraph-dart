@@ -1,0 +1,13 @@
+# .gitignore file for telegraph-dart
+
+*.swp*
+.DS_Store
+
+.vscode/
+
+.dart_tool/
+.packages
+doc/api/
+
+# remove this if it is an application package
+pubspec.lock

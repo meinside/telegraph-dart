@@ -1,0 +1,6 @@
+name: example
+author: Sungjin Han <meinside@gmail.com>
+
+dependencies:
+  telegraph:
+    path: ../
