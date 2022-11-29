@@ -1,5 +1,7 @@
 # telegraph-go
 
+:warning: **Not Maintained** :warning:
+
 Telegraph API wrapper for [Dart](https://www.dartlang.org/).
 
 Ported from [this Go version of Telegraph API](https://github.com/meinside/telegraph-go).
